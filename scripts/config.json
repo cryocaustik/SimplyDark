@@ -8,6 +8,6 @@
 	},
 	"build": {
 		"target": ["src", "_base.scss"],
-		"outputPath": ["dist", "dist"]
+		"outputPath": ["dist"]
 	}
 }

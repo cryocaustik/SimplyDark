@@ -1,15 +1,14 @@
 /**
  * @name SimplyDark
- * @author Gibbu#1211
- * @version 3.0.0
- * @description A sharp and simple theme for Discord
- * @source https://github.com/DiscordStyles/SimplyDark
- * @invite ZHthyCw
- * @website https://gibbu.me/
+ * @author cryocaustik
+ * @version 3.0.1
+ * @description A sharp and simple theme for Discord, forked from https://github.com/DiscordStyles/SimplyDark
+ * @source https://github.com/cryocaustik/SimplyDark
+ * @website https://github.com/cryocaustik
 */
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
-@import url("https://discordstyles.github.io/SimplyDark/dist/SimplyDark.css");
+@import url("https://cryocaustik.github.io/SimplyDark/dist/SimplyDark.css");
 
 /* Black Box user tags */
 @import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
